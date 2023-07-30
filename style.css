@@ -13,7 +13,14 @@ body {
     align-items: center;
 }
 
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .btn {
+    padding: 10px;
     margin: 10px;
 }
 
