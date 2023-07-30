@@ -20,10 +20,8 @@ body {
 }
 
 #container {
-    width: 40%;
-    height: 40vw;
-    aspect-ratio: 1/1;
-    flex-shrink: 1;
+    width: 500px;
+    height: 500px;
     display: flex;
 }
 
